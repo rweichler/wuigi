@@ -20,4 +20,4 @@ More details can be found in PRESENTATION.ppt.
 
 #### Other things you probably don't care about ####
 
-* I made this in high school. I started on it freshman year (2009), the old version had networking and was not very well-made. The newer revision I made my junior year (2011) as a final project, but I had to take out networking due to time restraints. I don't know where the old version is. I might find it later and put it in another repository.
+* When I started on it freshman year it had networking and was not very well-made. The newer revision I made my junior year (2011) as my APCS final project but I had to take out networking due to time restraints. I don't know where the old version is. I might find it later and put it in another repository.
